@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tableColumns>
+<column id="序号" cnName="" enName="" index="0" width="75" visible="true"/>
+<column id="航班号" cnName="航班号" enName="Callsign" index="1" width="75" visible="true"/>
+<column id="机型" cnName="机型" enName="Type" index="2" width="75" visible="true"/>
+<column id="起飞机场" cnName="起飞机场" enName="ADEP" index="3" width="75" visible="true"/>
+<column id="落地机场" cnName="落地机场" enName="ADES" index="4" width="75" visible="true"/>
+<column id="计划撤轮档1" cnName="计划撤轮档1" enName="SOBT1" index="5" width="120" visible="true"/>
+<column id="计划撤轮档2" cnName="计划撤轮档2" enName="SOBT2" index="6" width="120" visible="true"/>
+<column id="进境/出境" cnName="进境/出境" enName="EETT" index="7" width="120" visible="true"/>
+<column id="实际起飞" cnName="实际起飞" enName="ATOT" index="8" width="120" visible="true"/>
+<column id="预计落地" cnName="预计落地" enName="ELDT" index="9" width="120" visible="true"/>
+<column id="实际落地" cnName="实际落地" enName="ALDT" index="10" width="120" visible="true"/>
+<column id="离港延误" cnName="离港延误" enName="DelayDep" index="11" width="75" visible="true"/>  
+<column id="延误未起飞" cnName="延误未起飞" enName="DelayNDep" index="12" width="90" visible="true"/>  
+<column id="计划日期" cnName="计划日期" enName="PlanDate" index="13" width="120" visible="true"/>
+<column id="航班关注" cnName="航班关注" enName="Focus" index="14" width="135" visible="true"/>
+</tableColumns>

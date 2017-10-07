@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<JXCManagerUpdater xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+    xmlns="JXCManagerUpdater">
+  <description>1.test</description>
+  <Updater>
+    <LastUpdateTime>14:03:40</LastUpdateTime>
+    <UpdaterVersion>1.4.0</UpdaterVersion>
+  </Updater>
+  <Application Id="JXCManager-api">
+    <EntryPoint>JXCManager.exe</EntryPoint>
+    <Version>1.4.0</Version>
+  </Application>
+  <Files>
+    <UpdateItem i="0" isUpdate="false" fileName="JXCManager.exe" fileSize="32.00 KB" LastModified="2012/11/9 9:40:56" 
+        AfterDownload="Copy" Version="2012/11/9 9:40:56.32768" RelativePath="" />
+  </Files>
+</JXCManagerUpdater>

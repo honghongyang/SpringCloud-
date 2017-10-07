@@ -1,0 +1,66 @@
+2017-01-05 14:33:59,872: [SwingWorker-pool-1-thread-1] DEBUG com.lzw.atmm.login.LoginFrame -DBDao产生异常!
+ java.lang.NullPointerException
+	at com.lzw.atmm.dao.DBDao.getUser(DBDao.java:161)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:174)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:1)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at javax.swing.SwingWorker.run(SwingWorker.java:335)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-01-05 14:36:59,552: [SwingWorker-pool-1-thread-1] DEBUG com.lzw.atmm.login.LoginFrame -DBDao产生异常!
+ java.lang.NullPointerException
+	at com.lzw.atmm.dao.DBDao.getUser(DBDao.java:161)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:174)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:1)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at javax.swing.SwingWorker.run(SwingWorker.java:335)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-01-05 14:42:41,850: [SwingWorker-pool-1-thread-1] DEBUG com.lzw.atmm.login.LoginFrame -DBDao产生异常!
+ java.lang.NullPointerException
+	at com.lzw.atmm.dao.DBDao.getUser(DBDao.java:161)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:174)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:1)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at javax.swing.SwingWorker.run(SwingWorker.java:335)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-01-05 15:02:35,947: [SwingWorker-pool-1-thread-2] DEBUG com.lzw.atmm.login.LoginFrame -DBDao产生异常!
+ java.lang.NullPointerException
+	at com.lzw.atmm.dao.DBDao.getUser(DBDao.java:161)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:174)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:1)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at javax.swing.SwingWorker.run(SwingWorker.java:335)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-01-05 15:02:36,778: [SwingWorker-pool-1-thread-3] DEBUG com.lzw.atmm.login.LoginFrame -DBDao产生异常!
+ java.lang.NullPointerException
+	at com.lzw.atmm.dao.DBDao.getUser(DBDao.java:161)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:174)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:1)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at javax.swing.SwingWorker.run(SwingWorker.java:335)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+2017-01-05 15:43:09,868: [SwingWorker-pool-1-thread-1] DEBUG com.lzw.atmm.login.LoginFrame -DBDao产生异常!
+ java.lang.NullPointerException
+	at com.lzw.atmm.dao.DBDao.getUser(DBDao.java:161)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:174)
+	at com.lzw.atmm.login.LoginFrame$3$1.doInBackground(LoginFrame.java:1)
+	at javax.swing.SwingWorker$1.call(SwingWorker.java:296)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+	at javax.swing.SwingWorker.run(SwingWorker.java:335)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)

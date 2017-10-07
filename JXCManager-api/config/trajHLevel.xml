@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TrajHLevels>
+  <TrajHLevel low="0" high="3000" rgb="#cc00cc"/>
+  <TrajHLevel low="3000" high="6000" rgb="#3300ff"/>
+  <TrajHLevel low="6000" high="12000" rgb="#cc0033"/>
+  <TrajHLevel low="12000" high="130000" rgb="#000000"/>
+</TrajHLevels>
