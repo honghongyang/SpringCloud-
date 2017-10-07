@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
-Built-By: yanghong
-Build-Jdk: 1.7.0_45
 Implementation-Title: JXCManager-api
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yanghong
 Implementation-Vendor-Id: com.lzw
+Build-Jdk: 1.8.0_74
 Created-By: Maven Integration for Eclipse
 
