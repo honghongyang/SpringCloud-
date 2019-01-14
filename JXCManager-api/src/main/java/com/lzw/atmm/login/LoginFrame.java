@@ -49,6 +49,7 @@ import com.lzw.atmm.view.message.ConfirmDlg;
  * 修改时间：2016年6月17日 上午9:06:00   
  * 修改备注：   
  * @version   V1.0
+ * 登录界面
  */
 public class LoginFrame extends JFrame {//登陆界面的绘制
 	private static final long serialVersionUID = -4450587632295022671L;
